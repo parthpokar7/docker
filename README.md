@@ -42,16 +42,17 @@ newgrp docker
 
 docker run hello-world
 ```
-> **'You successfully Installed the Docker!'**
-## Build the Docker 
+> ***'You successfully Installed the Docker!'***
+## Build the Docker
+
 ##### run the Command in the folder from cmd :
 ```bash
 $ docker-compose build
+```
 
 expected output: 
     Successfully built xxxxxxxxxxxx
     Successfully tagged docker_php:latest
-```
     
 #### run the Docker
 ```bash

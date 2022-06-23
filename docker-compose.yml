@@ -8,8 +8,7 @@ services:
     links:
     - mysql:mysql
     volumes:
-    - ../symfony:/app:rw
-    # - ../:/app:rw
+    - ../:/app:rw
     - vscode_data:/root/.vscode-server
     ports:
       - 8080:80
