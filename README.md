@@ -42,8 +42,9 @@
 
     docker run hello-world
 
+### 'You successfully Installed the Docker!'
 
-## 'You successfully Installed the Docker!'
+###
 
 #### Post installation Docker 
     now you have to build the docker-compose.yml
