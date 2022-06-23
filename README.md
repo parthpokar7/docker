@@ -1,4 +1,4 @@
-# Start Symfony with Docker from ZERO 
+# Getting started with Docker
 
 #### install docker engine
 ```
@@ -42,7 +42,7 @@
 
     docker run hello-world
 ```
-> ** 'You successfully Installed the Docker!' **
+> **'You successfully Installed the Docker!'**
 ## Build the Docker 
 ##### run the Command in the folder from cmd :
 ```
