@@ -51,9 +51,11 @@ $ docker-compose build
 ```
 
 expected output: 
-    Successfully built xxxxxxxxxxxx
-    Successfully tagged docker_php:latest
-    
+```
+Successfully built xxxxxxxxxxxx
+Successfully tagged docker_php:latest
+```
+
 #### run the Docker
 ```bash
 $ docker-compose up
